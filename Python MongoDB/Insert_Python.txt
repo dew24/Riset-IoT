@@ -1,3 +1,14 @@
+1. mongo
+2. use NamaDB
+3. db.createCollection("testCollection")
+
+
+
+
+
+//////////////////////
+
+
 from pymongo import MongoClient 
   
 try: 
